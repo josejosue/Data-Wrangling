@@ -1,0 +1,31 @@
+---
+title: "Lab1"
+author: "Jose"
+date: "2024-07-31"
+output: rmarkdown::github_document
+---
+
+## Titulos
+texto
+
+* bullets
+
+|table |
+|------|
+|data1 |
+
+
+```{r, cache=TRUE}
+##codigo
+df <- mtcars
+head(df)
+
+```
+
+
+
+```{r, cache=TRUE}
+head(df)
+```
+
+
